@@ -1,0 +1,36 @@
+.barra-superior{
+  min-height: 4rem;
+}
+div[class*="columna"]{
+  min-height: 50rem;
+  border: 1px solid #eceff1;
+}
+div[class*="bloque"]{
+  height: 25rem;
+}
+
+.largo-Esclavos>img{
+  height: 500%;
+}
+
+.imagen-aqui {
+background-image: url('../img/vias-tren.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.lago-prue{
+  height: 50px;
+}
+
+.lago-prue{
+  height: 1000px;
+}
+
+.foto-perfil{
+  width:  100%;
+}
+.margenes-r{
+
+  padding: 1%;
+}
